@@ -22,5 +22,5 @@ This project is tailored for data analysts professionals aiming to gain quick, a
 
 Whether you're identifying growth trends, segmenting customer behavior, or analyzing product performance, these queries serve as robust templates to accelerate your analytics workflow.
 
-
+# Project Roadmap :
 ![Project_Roadmap](docs/Project_Roadmap.png)
