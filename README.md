@@ -15,7 +15,8 @@ Part-to-whole comparisons
 
 Performance and ranking analysis
 
-Overview
+
+Overview :
 
 This project is tailored for data analysts professionals aiming to gain quick, actionable insights from relational databases. Each SQL script is structured around a specific analytical objective, showcasing best practices in query design, efficiency, and clarity.
 
